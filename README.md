@@ -13,3 +13,6 @@ This repository is designed to:
 ## How to Use
 - Navigate through folders for startups or resources.
 - Use tags or labels in issues/projects to track updates.
+
+
+##The resources.md file has notion page which is really important
