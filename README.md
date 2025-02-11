@@ -15,4 +15,4 @@ This repository is designed to:
 - Use tags or labels in issues/projects to track updates.
 
 
-##The resources.md file has notion page which is really important
+## The resources.md file has notion page which is really important
